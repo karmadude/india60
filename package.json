@@ -1,0 +1,23 @@
+{
+  "name": "india60",
+  "version": "1.0.0",
+  "description": "Collection of data from India",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmadude/india60.git"
+  },
+  "keywords": [
+    "india",
+    "data"
+  ],
+  "author": "Liji Jinaraj <karmadude@gmail.com> (http://liji.jinaraj.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karmadude/india60/issues"
+  },
+  "homepage": "https://github.com/karmadude/india60"
+}
