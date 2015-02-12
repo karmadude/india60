@@ -1,5 +1,5 @@
-# india60
-Collection of data from India
+# India60
+Collection of data from India.
 
 ### Installing
 
@@ -17,3 +17,7 @@ var data = require(india60.elections[0].path);
 data = require(india60.elections[1].path);
 
 ```
+
+
+### Examples
+- [Delhi election 2015](http://india60.com/stats/delhi-election-2015)
