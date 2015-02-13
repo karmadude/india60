@@ -8,6 +8,12 @@ module.exports = {
       title: "Lok Sabha Election 2014",
       path: dataPath("loksabha-election-2014")
     }
+  },
+  aap: {
+    aap_social_stats: {
+      title: "Aam Aadmi Party Social Stats",
+      path: dataPath("aap-social-stats")
+    }
   }
 };
 
