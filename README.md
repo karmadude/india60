@@ -10,7 +10,8 @@ Collection of data from India.
 ```
 var india60 = require('india60');
 
-// Delhi election 2015
+// Delhi election 2013, 2015
+var data = require(india60.elections.delhi_election_2013.path);
 var data = require(india60.elections.delhi_election_2015.path);
 
 // Loksabha election 2014

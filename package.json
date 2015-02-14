@@ -1,6 +1,6 @@
 {
   "name": "india60",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Collection of data from India",
   "main": "index.js",
   "scripts": {

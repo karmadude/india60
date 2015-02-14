@@ -1,5 +1,9 @@
 module.exports = {
   elections: {
+    delhi_election_2013: {
+      title: "Delhi Election 2013",
+      path: dataPath("delhi-election-2013")
+    },
     delhi_election_2015: {
       title: "Delhi Election 2015",
       path: dataPath("delhi-election-2015")
