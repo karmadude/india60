@@ -8,20 +8,21 @@ Collection of data from India.
 ### Using
 
 ```
-var india60 = require('india60');
+// Elections
 
-// Bihar legislative assembly election 2015
-var data = require(india60.elections.bihar_assembly_election_2015.path);
+var data = require('india60/elections/assembly/assam-2016');
+data = require('india60/elections/assembly/bihar-2015');
+data = require('india60/elections/assembly/delhi-2013');
+data = require('india60/elections/assembly/delhi-2015');
+data = require('india60/elections/assembly/kerala-2016');
+data = require('india60/elections/assembly/tamil-nadu-2016');
+data = require('india60/elections/assembly/west-bengal-2016');
 
-// Delhi election 2013, 2015
-var data = require(india60.elections.delhi_election_2013.path);
-var data = require(india60.elections.delhi_election_2015.path);
+data = require('india60/elections/loksabha-2014');
 
-// Loksabha election 2014
-data = require(india60.elections.loksabha_election_2014.path);
+// Stats
 
-// Aam Aadmi Party Social Stats
-data = require(india60.aap.aap_social_stats.path);
+data = require('india60/stats/overseas-indians-nri-pio');
 
 ```
 

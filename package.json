@@ -1,10 +1,10 @@
 {
   "name": "india60",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "Collection of data from India",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape 'test/**/*-test.js'"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/karmadude/india60/issues"
   },
-  "homepage": "https://github.com/karmadude/india60"
+  "homepage": "https://github.com/karmadude/india60",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
 }
